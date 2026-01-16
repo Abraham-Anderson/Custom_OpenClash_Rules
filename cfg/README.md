@@ -11,33 +11,6 @@
 | Custom_Clash_Lite.ini | Meta | 仅包含国内直连规则的模板，国外全部代理且不做分流 |
 | Custom_Clash_Full.ini | Meta | 重度分流规则模板 |
 
-**加速链接：**
-
-Custom_Clash.ini
-
-```text
-https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash.ini
-```
-
-Custom_Clash_GFW.ini
-
-```text
-https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash_GFW.ini
-```
-
-Custom_Clash_Lite.ini
-
-```text
-https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash_Lite.ini
-```
-
-Custom_Full_Clash.ini
-
-```text
-https://testingcf.jsdelivr.net/gh/Aethersailor/Custom_OpenClash_Rules@main/cfg/Custom_Clash_Full.ini
-```
-
----
 
 ## 归档文件夹
 
