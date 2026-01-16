@@ -1,3 +1,3 @@
 payload:
-  - DOMAIN,acgxmh.com
-  - DOMAIN,heiliao.com
+  - DOMAIN-SUFFIX,acgxmh.com
+  - DOMAIN-SUFFIX,heiliao.com
