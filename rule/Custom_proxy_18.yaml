@@ -30,6 +30,7 @@ payload:
   - DOMAIN-SUFFIX,goodav17.com
   - DOMAIN-SUFFIX,missavt.com
   - DOMAIN-SUFFIX,krevonix.com
+  - DOMAIN-SUFFIX,saawsedge.com
 
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
