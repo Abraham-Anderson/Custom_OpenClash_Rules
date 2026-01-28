@@ -28,6 +28,7 @@ payload:
   - DOMAIN-SUFFIX,hjlove.ezplayer.stream
   - DOMAIN-SUFFIX,rou.video
   - DOMAIN-SUFFIX,goodav17.com
+  - DOMAIN-SUFFIX,missavt.com
 
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
