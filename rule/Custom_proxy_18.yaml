@@ -249,7 +249,8 @@ payload:
   - DOMAIN-SUFFIX,missavtv.net
   - DOMAIN-SUFFIX,missavx.com
   - DOMAIN-SUFFIX,missavxxx.com
-
+  - DOMAIN-SUFFIX,cdnedge.live
+  
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
 
@@ -280,3 +281,4 @@ payload:
   - DOMAIN-SUFFIX,plyr.io
 
   - DOMAIN-SUFFIX,javchu.com
+
