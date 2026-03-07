@@ -251,6 +251,7 @@ payload:
   - DOMAIN-SUFFIX,missavxxx.com
   - DOMAIN-SUFFIX,cdnedge.live
   - DOMAIN-SUFFIX,520cc.cc
+  - DOMAIN-SUFFIX,avgood.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
