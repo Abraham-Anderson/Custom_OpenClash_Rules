@@ -3,3 +3,5 @@ payload:
   - DOMAIN-SUFFIX,openwrt.org
   - DOMAIN-SUFFIX,freedom.gov
   - DOMAIN-SUFFIX,brightcovecdn.com
+  - DOMAIN-SUFFIX,brightcove.com
+  - DOMAIN-SUFFIX,brightcove.net
