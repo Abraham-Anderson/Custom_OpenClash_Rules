@@ -5,3 +5,7 @@ payload:
   - DOMAIN-SUFFIX,brightcovecdn.com
   - DOMAIN-SUFFIX,brightcove.com
   - DOMAIN-SUFFIX,brightcove.net
+  - DOMAIN-SUFFIX,boltdns.net
+  - DOMAIN-SUFFIX,bcove.video
+  - DOMAIN-SUFFIX,bcovlive.io
+  - DOMAIN-SUFFIX,bcovlive.com
