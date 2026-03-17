@@ -254,6 +254,8 @@ payload:
   - DOMAIN-SUFFIX,avgood.com
   - DOMAIN-SUFFIX,51md.me
   - DOMAIN-SUFFIX,afcdn.net
+  - DOMAIN-SUFFIX,myavlive.com
+  - DOMAIN-SUFFIX,mavtracktor.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
