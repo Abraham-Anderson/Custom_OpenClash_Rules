@@ -255,7 +255,7 @@ payload:
   - DOMAIN-SUFFIX,51md.me
   - DOMAIN-SUFFIX,afcdn.net
   - DOMAIN-SUFFIX,myavlive.com
-  - DOMAIN-SUFFIX,mavtracktor.com
+  - DOMAIN-SUFFIX,mavrtracktor.com
   - DOMAIN-SUFFIX,strpst.com
   
   # === 客户端 / API / 关键词命中 ===
