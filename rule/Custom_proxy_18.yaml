@@ -253,6 +253,7 @@ payload:
   - DOMAIN-SUFFIX,520cc.cc
   - DOMAIN-SUFFIX,avgood.com
   - DOMAIN-SUFFIX,51md.me
+  - DOMAIN-SUFFIX,afcdn.net
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
