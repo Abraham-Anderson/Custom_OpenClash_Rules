@@ -258,7 +258,6 @@ payload:
   - DOMAIN-SUFFIX,mavrtracktor.com
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,520cc.tw
-  - DOMAIN-SUFFIX,sc-apps.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
