@@ -260,6 +260,7 @@ payload:
   - DOMAIN-SUFFIX,520cc.tw
   - DOMAIN-SUFFIX,ucloud155.xyz
   - DOMAIN-SUFFIX,kadokado.com
+  - DOMAIN-SUFFIX,kadokado.com.tw
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
