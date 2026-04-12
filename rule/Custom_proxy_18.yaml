@@ -262,6 +262,7 @@ payload:
   - DOMAIN-SUFFIX,kadokado.com
   - DOMAIN-SUFFIX,kadokado.com.tw
   - DOMAIN-SUFFIX,xsijishe.net
+  - DOMAIN-SUFFIX,wcdn.date
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
