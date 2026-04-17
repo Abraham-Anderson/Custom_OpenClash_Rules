@@ -266,6 +266,7 @@ payload:
   - DOMAIN-SUFFIX,ahacdn.me
   - DOMAIN-SUFFIX,clickadu.net
   - DOMAIN-SUFFIX,av01.tv
+  - DOMAIN-SUFFIX,fastly-edge.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
