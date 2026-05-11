@@ -269,6 +269,7 @@ payload:
   - DOMAIN-SUFFIX,fastly-edge.com
   - DOMAIN-SUFFIX,18av.mm-cg.com
   - DOMAIN-SUFFIX,aosikazyy.com
+  - DOMAIN-SUFFIX,vywhoody.com
   
   # === 客户端 / API / 关键词命中 ===
   - DOMAIN-KEYWORD,client-rapi-missav
